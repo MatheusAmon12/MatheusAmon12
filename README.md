@@ -45,6 +45,7 @@
 - [To Do List](https://github.com/MatheusAmon12/to-do-list)
 - [Landing Page Captura](https://imersaohelanomariz.com)
 - [Landing Page Venda](https://www.valorizandoaessencia.com)
+- [Página SM](https://github.com/MatheusAmon12/pagina-sm-next)
 
 ## Teconologias e Ferramentas
 
