@@ -14,14 +14,16 @@
 
   - 🔭 Atualmente estou em busca da minha primeira oportunidade de trabalho como Dev. Meu sonho é conseguir alcançar este objetivo.
 
-  - 🌱 Desenvolvi projetos freelancers para clientes aqui da minha cidade, onde pude adquirir experiência.
+  - 🌱 Desenvolvi projetos como prestador de serviços para clientes aqui da minha cidade, onde pude adquirir experiência.
+
+  - 💻 Trabalho atualmente como Web Designer.
 </p>
 
 <!-- Dropdown -->
 <details>
   <summary>👨‍💻 Mais sobre mim</summary>
 
-  - 💬 Eu tenho 23 anos, me formei com técnico em informática em 2019, meu primeiro contato com um mundo do desenvolvimento. Nesse momento eu descobri o que eu queria seguir, pois simplesmente amo a programação. Desde então busco me desenvolver cada dia mais como desenvolvedor, o curso mais importante para mim foi a Formação Full Stack JavaScript, pois tive contato com tecnologias incríveis que mostraram o quão grande era o universo da programação. Realizei outros cursos pela plataforma do Curso em Vídeo, imersões da Alura e Bootcamp MultiCloud. Atualmente o meu foco é o Front-End e para abrangir meus conhecimentos me profissionalizei como Designer especialista em Figma. Isso me permitiu desenvolver projetos onde fui responsável desde a interface (UI) até a implementação, deploy e hospedagme. Meu objetivo é conseguir minha primeira oportunidade e daqui 4 anos anos chegar ao nível sênior
+  - 💬 Eu tenho 24 anos, me formei com técnico em informática em 2019, meu primeiro contato com um mundo do desenvolvimento. Nesse momento eu descobri o que eu queria seguir, pois simplesmente amo a programação. Desde então busco me desenvolver cada dia mais na área do Desenvolvimento FullStack, o curso mais importante para mim foi a Formação Full Stack JavaScript, pois tive contato com tecnologias incríveis que mostraram o quão grande era o universo da programação. Realizei outros cursos pela plataforma do Curso em Vídeo, imersões da Alura e Bootcamps. Atualmente o meu foco é o Front-End e para abrangir meus conhecimentos me profissionalizei como Designer especialista em Figma. Isso me permitiu desenvolver projetos onde fui responsável desde a interface até a implementação, deploy e hospedagem. Meu objetivo é conseguir minha primeira oportunidade e alanvacar minha carreira, chegando ao nível sênior em aproximadamente 6 anos.
 
   - 🕙 No meu tempo livre gosto de assistir filmes e séries voltadas para tecnologia e tocar guitarra. \o/
 </details>
@@ -30,7 +32,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheus-amon-dos-santos-ferreira-a52526163/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/MatheusAmon12)
-[![Yotube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/PR0C9IDnIEE)
 
 ## Status
 
@@ -39,14 +40,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatheusAmon12&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-## Portfólio
+## Alguns Projetos
 
 - [Food Delivery](https://github.com/MatheusAmon12/food-delivery)
-- [Dreamscape Booking](https://github.com/MatheusAmon12/booking)
+- [Barbershop](https://github.com/MatheusAmon12/barbershop)
+- [Front-End Fusion]([https://github.com/MatheusAmon12/booking](https://github.com/MatheusAmon12/portifolio-colaborativo-codewizard-tigerscode))
 - [To Do List](https://github.com/MatheusAmon12/to-do-list)
-- [Landing Page Captura](https://imersaohelanomariz.com)
-- [Landing Page Venda](https://www.valorizandoaessencia.com)
-- [Página SM](https://github.com/MatheusAmon12/pagina-sm-next)
 
 ## Teconologias e Ferramentas
 
