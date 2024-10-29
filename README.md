@@ -44,8 +44,8 @@
 
 - [Food Delivery](https://github.com/MatheusAmon12/food-delivery)
 - [Barbershop](https://github.com/MatheusAmon12/barbershop)
-- [Front-End Fusion]([https://github.com/MatheusAmon12/booking](https://github.com/MatheusAmon12/portifolio-colaborativo-codewizard-tigerscode))
-- [To Do List](https://github.com/MatheusAmon12/to-do-list)
+- [Front-End Fusion](https://github.com/MatheusAmon12/portifolio-colaborativo-codewizard-tigerscode)
+- [Dream Bookings](https://github.com/MatheusAmon12/booking)
 
 ## Teconologias e Ferramentas
 
