@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/MatheusAmon12/MatheusAmon12/assets/111083094/b4014043-8426-4135-a882-a437a158c6f2" height="360" width="480" />
+  <img src="https://github.com/user-attachments/assets/dfa433c5-379e-450a-961c-f331af7f2ef8" height="600" width="600" />
 </div>
 
 <!--título-->
@@ -16,7 +16,7 @@
 
   - 🌱 Desenvolvi projetos como prestador de serviços para clientes aqui da minha cidade, onde pude adquirir experiência.
 
-  - 💻 Trabalho atualmente como Web Designer.
+  - 💻 Trabalho atualmente no Front-End Fusion, de forma voluntária.
 </p>
 
 <!-- Dropdown -->
@@ -41,10 +41,10 @@
 </div>
 
 ## Alguns Projetos
-
+- [ACEVE Website](https://github.com/MatheusAmon12/Aceve-website-development/)
+- [Portfólio Colaborativo](https://github.com/MatheusAmon12/portifolio-colaborativo-codewizard-tigerscode)
 - [Food Delivery](https://github.com/MatheusAmon12/food-delivery)
 - [Barbershop](https://github.com/MatheusAmon12/barbershop)
-- [Front-End Fusion](https://github.com/MatheusAmon12/portifolio-colaborativo-codewizard-tigerscode)
 - [Dream Bookings](https://github.com/MatheusAmon12/booking)
 
 ## Teconologias e Ferramentas
