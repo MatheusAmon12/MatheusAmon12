@@ -10,7 +10,7 @@
 
 <!-- Presentation -->
 <p>
-  Olá 👋, eu sou o Matheus! Desenvolvedor Front-End.
+  Olá 👋, eu sou o Matheus! Desenvolvedor FullStack.
 
   - 🔭 Atualmente estou em busca da minha primeira oportunidade de trabalho como Dev. Meu sonho é conseguir alcançar este objetivo.
 
