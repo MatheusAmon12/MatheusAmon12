@@ -1,33 +1,108 @@
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=matheusamon12&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/hero?username=matheusamon12&theme=github-dark" alt="Matheus Amon dos Santos Ferreira profile hero" /></picture>
-</p>
+<!-- HEADER -->
+<!-- Substitua a imagem abaixo por um banner criado no Canva com seu nome e cargo -->
+<!-- Tamanho recomendado: 1280x320px -->
+<div align="center">
+  <img width="1983" height="793" alt="github-banner-matheus-amon" src="https://github.com/user-attachments/assets/59d9adbf-35fc-41dd-8220-247b83d3c097" />
+</div>
 
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=matheusamon12&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/about?username=matheusamon12&theme=github-dark" alt="About Matheus Amon dos Santos Ferreira" /></picture>
-</p>
+<br />
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=typescript,nextjs,postgres,tailwindcss&perline=8&theme=dark" alt="Selected language and technology logos" />
-</p>
 
-## 📊 GitHub Stats
+<!-- BIO -->
+<div align="center">
 
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=matheusamon12&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=matheusamon12&theme=github-dark" alt="GitHub Stats" /></picture>
-</p>
+Desenvolvedor Front-End na Vidya Code, trabalhando com Next.js, TypeScript
+e React no desenvolvimento de sistemas integrados a ERPs.
 
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=matheusamon12&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/projects?username=matheusamon12&theme=github-dark" alt="matheusamon12 featured projects" /></picture>
-</p>
+Tenho background em Design Gráfico e UX/UI, o que influencia como penso
+interfaces — da estrutura até a experiência do usuário final.
 
-## 🤝 Connect With Me
+Aberto a oportunidades remotas em produto ou SaaS.
 
-<p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=matheusamon12&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=matheusamon12&theme=github-dark" alt="matheusamon12 social links" /></picture>
-</p>
+</div>
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matheusamon12)
+<br />
 
 ---
 
-<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
+<!-- STACK -->
+<!-- skill-icons: substitua os ícones conforme sua stack -->
+<!-- Gerador: https://skillicons.dev -->
+
+### Tecnologias
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,prisma,postgres,figma,git,github,vscode&theme=dark" />
+</div>
+
+<br />
+
+---
+
+<!-- GITHUB STATS -->
+<!-- github-readme-stats: troque "MatheusAmon12" pelo seu username se mudar -->
+<!-- Docs: https://github.com/anuraghazra/github-readme-stats -->
+
+### Estatísticas
+
+<div align="center">
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api?username=MatheusAmon12&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"
+    alt="GitHub Stats"
+  />
+  <img
+    height="160"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusAmon12&layout=compact&theme=tokyonight&hide_border=true&langs_count=6"
+    alt="Linguagens mais usadas"
+  />
+</div>
+
+<br />
+
+<!-- STREAK -->
+<!-- github-readme-streak-stats -->
+<!-- Docs: https://github.com/DenverCoder1/github-readme-streak-stats -->
+
+<div align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=MatheusAmon12&theme=tokyonight&hide_border=true&locale=pt_BR"
+    alt="Streak de commits"
+  />
+</div>
+
+<br />
+
+---
+
+<!-- PROJETOS EM DESTAQUE -->
+<!-- Links manuais para os repos que você pinará no perfil -->
+
+### Projetos em destaque
+
+| Projeto | Descrição | Stack | Demo |
+|---|---|---|---|
+| [barbershop](https://github.com/MatheusAmon12/barbershop) | Sistema de reservas com autenticação Google | Next.js · TypeScript · Prisma | [Ver](https://barbershop-khaki.vercel.app) |
+| [food-delivery](https://github.com/MatheusAmon12/food-delivery) | Plataforma estilo iFood com auth social | Next.js · TypeScript · NeonDB | [Ver](https://food-delivery-wine.vercel.app) |
+| [bewear-ecommerce](https://github.com/MatheusAmon12/bewear-ecommerce) | E-commerce fashion com UI moderna | Next.js · TypeScript · Tailwind | [Ver](https://bewear-ecommerce-rouge.vercel.app) |
+| [restaurant-self-checkout](https://github.com/MatheusAmon12/restaurant-self-checkout) | Sistema de autoatendimento para restaurante | Next.js · TypeScript | [Ver](https://restaurant-self-checkout.vercel.app) |
+| [financial-target-app](https://github.com/MatheusAmon12/financial-target-app) | App para gerenciar metas financeiras | TypeScript · React | [Ver](https://financial-target-app.vercel.app) |
+| [backend-ai-pratice](https://github.com/MatheusAmon12/backend-ai-pratice) | Back-end com Gemini API para gerar descrições | Node.js · Gemini AI | — |
+
+<br />
+
+---
+
+<!-- CONTATO -->
+
+### Contato
+
+<div align="center">
+
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://linkedin.com/in/matheus-amon-dev)
+&nbsp;
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/MatheusAmon12)
+
+**amonmatheus757@gmail.com**
+
+</div>
